@@ -1,5 +1,5 @@
 {
-   "name": "dom-compare",
+   "name": "dom-compare-temp",
    "description": "Library to compare two DOM trees",
    "version": "0.3.4",
    "author": "Oleg Elifantiev <oleg@elifantiev.ru>",
